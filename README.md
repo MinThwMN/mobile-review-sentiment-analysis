@@ -1,5 +1,4 @@
-# Datamining_Machine-Learning-Based-Sentiment-Classification-for-Mobile-Device-Reviews
-# Machine Learning-Based Sentiment Classification for Mobile Device Reviews
+# Mobile-review-sentiment-analysis
 
 ## Overview
 
